@@ -35,7 +35,7 @@ Most people spend hours on their phones, often with their necks bent down, leadi
 - 🛠️ **Lightweight & Battery-Friendly**  
   Runs in the background without excessive battery drain.
 
-  ---
+---
 
 ## 🧑‍💻 Author
 
