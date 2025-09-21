@@ -43,3 +43,13 @@ Most people spend hours on their phones, often with their necks bent down, leadi
 [GitHub Profile](https://github.com/natancr) · iOS Developer & Tech Enthusiast
 
 ---
+
+## 📄 License
+
+This project is private and proprietary to the Author.
+
+## 👥 Contributing
+
+This is a private project. For any issues or suggestions, please contact the development team.
+
+---
